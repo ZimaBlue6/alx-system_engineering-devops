@@ -11,7 +11,5 @@
 10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath - Writes a script that displays the result of BREATH to the power LOVE.
 11. There are 10 types of people in the world -- Those who understand binary, and those who don't - Writes a script that converts a number from base 2 to base 10.
 12. Combination - Creates a script that prints all possible combinations of two letters, except oo.
-13. Floats - Writes a script that prints a number with two decimal places.
-
-The number will be stored in the environment variable NUM.
+13. Floats - Writes a script that prints a number with two decimal places. The number will be stored in the environment variable NUM.
 14. Decimal to Hexadecimal - Writes a script that converts a number from base 10 to base 16.
